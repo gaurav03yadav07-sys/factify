@@ -26,3 +26,5 @@ venv/
 ENV/
 .vscode/
 .idea/
+push.sh
+
