@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+**/.ipynb_checkpoints/
+
+# macOS
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Databases
+*.db
+*.sqlite
+
+# Environments / IDEs
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode/
+.idea/
